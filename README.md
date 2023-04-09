@@ -1,1 +1,1 @@
-# Sistemas-de-Computa-o
+# Sistemas-de-Computacao
